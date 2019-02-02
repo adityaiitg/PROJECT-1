@@ -1,2 +1,2 @@
 # PROJECT-1
-My first project on git
+print("MY FIRST PROJECT ON GIT")
